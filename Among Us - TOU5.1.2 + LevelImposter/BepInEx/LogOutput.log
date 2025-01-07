@@ -1,0 +1,625 @@
+[Message: Preloader] BepInEx 6.0.0-be.697 - Among Us
+[Message: Preloader] Built from commit 53625800b86f6c68751445248260edf0b27a71c2
+[Info   :   BepInEx] System platform: Windows 10 64-bit
+[Info   :   BepInEx] Process bitness: 32-bit (x86)
+[Info   :   BepInEx] Running under Unity 2020.3.45f1
+[Info   :   BepInEx] Runtime version: 6.0.7
+[Info   :   BepInEx] Runtime information: .NET 6.0.7
+[Info   : Preloader] 0 patcher plugins loaded
+[Info   : Preloader] 0 assemblies discovered
+[Message:AssemblyPatcher] Executing 0 patch(es)
+[Message:   BepInEx] Chainloader initialized
+[Info   :Il2CppInterop] Registered mono type Il2CppInterop.Runtime.DelegateSupport+Il2CppToMonoDelegateReference in il2cpp domain
+[Info   :   BepInEx] 5 plugins to load
+[Info   :   BepInEx] Loading [Mini.RegionInstall 1.2.0]
+[Info   :Mini.RegionInstall] Starting Mini.RegionInstall
+[Info   :   BepInEx] Loading [Reactor 2.3.1]
+[Message:   Reactor] Among Us 2024.11.26 Steam
+[Info   :Il2CppInterop] Registered mono type Reactor.Utilities.Dispatcher in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Reactor.Utilities.UI.ReactorPopup in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Reactor.ReactorPlugin+ReactorComponent in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Reactor.Utilities.Coroutines+Component in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Reactor.Utilities.Extensions.StreamExtensions+StreamWrapper in il2cpp domain
+[Info   :   BepInEx] Loading [Submerged 2024.8.26+9f9d90d4af5e919ed94bbd9d846c0fc6dbd5a1bb]
+[Info   :Il2CppInterop] Registered mono type Submerged.UI.CreditsScreenManager in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.SpawnIn.SubmarineSelectSpawn in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.SpawnIn.SubmarineSelectSpawnHnS in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.SpawnIn.SubmarineSpawnInSystem in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.MonoBehaviours.ClickableSprite in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.MonoBehaviours.CooldownConsole in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.MonoBehaviours.Draggable in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.MonoBehaviours.MinigameProperties in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.MonoBehaviours.NeedleBehaviour in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.TrackMantaRay.TrackMantaMinigame in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.Surveillance.SubmarineSurvillanceMinigame in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.SteadyHeartbeat.SteadyHeartbeatMinigame in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.StartSubmersible.StartSubmersibleMinigame in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.StartSubmersible.MonoBehaviours.SubmersibleSlider in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.StabilizeWaterLevels.BallastSabotageMinigame in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.SpotWhaleShark.WhaleSharkMapIcon in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.SpotWhaleShark.WhaleSharkMinigame in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.SpotWhaleShark.WhaleSharkTask in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.SortScubaGear.SortScubaMinigame in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.SortScubaGear.MonoBehaviours.ScubaGearItem in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.SortScubaGear.MonoBehaviours.SortScubaBox in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.ShootDepthCharges.ShootDepthChargesMinigame in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.ShootDepthCharges.MonoBehaviours.DepthCharge in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.RetrieveOxygenMask.OxygenSabotageMinigame in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.RetrieveOxygenMask.OxygenSabotageTask in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.ReshelveBooks.ReshelveBooksMinigame in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.ReshelveBooks.ReshelveBooksTask in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.ReshelveBooks.ReshelvePart1 in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.ReshelveBooks.ReshelvePart2 in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.ResetBreakers.ResetBreakersMinigame in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.ResetBreakers.MonoBehaviours.CircuitBreaker in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.RecordNavBeaconData.SetNavBeaconMinigame in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.RecordNavBeaconData.SetNavBeaconPart1 in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.RecordNavBeaconData.SetNavBeaconPart2 in il2cpp domain
+[Error  :Il2CppInterop] Assembly Submerged.dll is not registered in il2cpp
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.ReconnectPiping.ReconnectPipingMinigame in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.ReconnectPiping.MonoBehaviours.PipeCell in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.PurchaseBreakfast.PurchaseBreakfastMinigame in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.PurchaseBreakfast.MonoBehaviour.CakeBehaviour in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.PlugLeaks.PlugLeaksMinigame in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.PlugLeaks.PlugLeaksTask in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.OxygenateSeaPlants.OxygenateCoralMinigame in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.OxygenateSeaPlants.MonoBehaviours.CoralBehaviour in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.OxygenateSeaPlants.MonoBehaviours.SlugBehaviour in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.MopPuddles.MopPuddlesMinigame in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.MopPuddles.MopPuddlesTask in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.MopPuddles.MonoBehaviours.PuddleBehaviour in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.MicrowaveLunch.MicrowaveLunchMinigame in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.MicrowaveLunch.MicrowaveLunchTask in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.LocateVolcanicActivity.LocateVolcanicActivityMinigame in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.LocateVolcanicActivity.MonoBehaviours.ConstantScroll in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.IdentifySpecimen.IdentifySpecimenMinigame in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.FixWiring.MonoBehaviours.KcegListener in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.FeedPetFish.FeedFishMinigame in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.FeedPetFish.MonoBehaviours.DraggableFeeder in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.DoorSabotage.OpenDoorsMinigameNoInterface in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.DoorSabotage.OpenDoorsMinigame in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.DispenseWater.DispenseWaterMinigame in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.DiagnoseElevators.DiagnoseElevatorsMinigame in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.CycleReactor.CycleReactorMinigame in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.ClearUrchins.ClearUrchinsMinigame in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.ClearUrchins.MonoBehaviours.Urchin in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.CleanGlass.CleanGlassMinigame in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.CleanGlass.MonoBehaviours.Smudge in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.CamsSabotage.SetupCamsMinigame in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.CamsSabotage.MonoBehaviours.CamSlider in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Minigames.CustomMinigames.AlignTelescope.AlignTelescopeMinigame in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Map.SubmarineStatus in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Loading.AssetLoader in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Loading.CustomPlayerData in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Loading.LoadingManager in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.KillAnimation.CustomKillAnimationPlayer in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.HudMap.SubmergedHudMap in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Floors.FloorHandler in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Floors.SubmarinePlayerFloorSystem in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Floors.Objects.RelativeShadowRenderer in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Floors.Objects.DeadBodyShadowRenderer in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Floors.Objects.GenericShadowBehaviour in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Floors.Objects.PlayerShadowRenderer in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Floors.Objects.LongPlayerShadowRenderer in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.ExileCutscene.ExileParallax in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.ExileCutscene.FishController in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.ExileCutscene.SubmergedExileController in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Elevators.SubmarineElevatorSystem in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Elevators.Objects.ElevatorMover in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Systems.SecuritySabotage.SubmarineSecuritySabotageSystem in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Systems.Oxygen.SubmarineOxygenSystem in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Systems.Oxygen.SubmarineOxygenTint in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Systems.BoxCat.SubmarineBoxCatSystem in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Systems.Elevator.ElevatorConsole in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Systems.Elevator.SubmarineElevator in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type Submerged.Debugging.DebugWindow in il2cpp domain
+[Info   :   Reactor] Mod "Submerged" registered in ReactorCredits with version 2024.8.26.
+[Info   : Submerged] Loading AssetLoader
+[Info   : Submerged] Loading MapLoader
+[Info   :Il2CppInterop] Registered mono type BepInEx.Unity.IL2CPP.Utils.Collections.Il2CppManagedEnumerator in il2cpp domain
+[Info   :   BepInEx] Loading [Town Of Us 5.1.2]
+[Info   :   Reactor] Mod "Town Of Us" registered in ReactorCredits with version 5.1.2.
+[Info   :   Console] 000.000.000.000/000000000000000000
+[Info   :   Console] Crewmate Investigative Roles set to 0
+[Info   :   Console] <color=#B34D99FF>Aurial</color> set to 0
+[Info   :   Console] <color=#4D4DFFFF>Detective</color> set to 0
+[Info   :   Console] <color=#D3D3D3FF>Haunter</color> set to 0
+[Info   :   Console] <color=#00B3B3FF>Investigator</color> set to 0
+[Info   :   Console] <color=#4D99E6FF>Mystic</color> set to 0
+[Info   :   Console] <color=#BF00BFFF>Oracle</color> set to 0
+[Info   :   Console] <color=#FFCC80FF>Seer</color> set to 0
+[Info   :   Console] <color=#D4AF37FF>Snitch</color> set to 0
+[Info   :   Console] <color=#CCA3CCFF>Spy</color> set to 0
+[Info   :   Console] <color=#009900FF>Tracker</color> set to 0
+[Info   :   Console] <color=#A7D1B3FF>Trapper</color> set to 0
+[Info   :   Console] Crewmate Killing Roles set to 0
+[Info   :   Console] <color=#29AB87FF>Hunter</color> set to 0
+[Info   :   Console] <color=#A6A6A6FF>Jailor</color> set to 0
+[Info   :   Console] <color=#FFFF00FF>Sheriff</color> set to 0
+[Info   :   Console] <color=#998040FF>Veteran</color> set to 0
+[Info   :   Console] <color=#FFFF99FF>Vigilante</color> set to 0
+[Info   :   Console] Crewmate Protective Roles set to 0
+[Info   :   Console] <color=#660000FF>Altruist</color> set to 0
+[Info   :   Console] <color=#006600FF>Medic</color> set to 0
+[Info   :   Console] <color=#9900FFFF>Warden</color> set to 0
+[Info   :   Console] Crewmate Support Roles set to 0
+[Info   :   Console] <color=#FFA60AFF>Engineer</color> set to 0
+[Info   :   Console] <color=#B3D94DFF>Imitator</color> set to 0
+[Info   :   Console] <color=#A680FFFF>Medium</color> set to 0
+[Info   :   Console] <color=#660099FF>Politician</color> set to 0
+[Info   :   Console] <color=#B38000FF>Prosecutor</color> set to 0
+[Info   :   Console] <color=#66E666FF>Swapper</color> set to 0
+[Info   :   Console] <color=#00EEFFFF>Transporter</color> set to 0
+[Info   :   Console] Neutral Benign Roles set to 0
+[Info   :   Console] <color=#80B2FFFF>Amnesiac</color> set to 0
+[Info   :   Console] <color=#B3FFFFFF>Guardian Angel</color> set to 0
+[Info   :   Console] <color=#FFE64DFF>Survivor</color> set to 0
+[Info   :   Console] Neutral Evil Roles set to 0
+[Info   :   Console] <color=#00FF80FF>Doomsayer</color> set to 0
+[Info   :   Console] <color=#8C4005FF>Executioner</color> set to 0
+[Info   :   Console] <color=#FFBFCCFF>Jester</color> set to 0
+[Info   :   Console] <color=#662962FF>Phantom</color> set to 0
+[Info   :   Console] <color=#99FFCCFF>Soul Collector</color> set to 0
+[Info   :   Console] Neutral Killing Roles set to 0
+[Info   :   Console] <color=#FF4D00FF>Arsonist</color> set to 0
+[Info   :   Console] <color=#E6FFB3FF>Plaguebearer</color> set to 0
+[Info   :   Console] <color=#00FF00FF>The Glitch</color> set to 0
+[Info   :   Console] <color=#262626FF>Vampire</color> set to 0
+[Info   :   Console] <color=#A86629FF>Werewolf</color> set to 0
+[Info   :   Console] Impostor Concealing Roles set to 0
+[Info   :   Console] <color=#FF0000FF>Escapist</color> set to 0
+[Info   :   Console] <color=#FF0000FF>Grenadier</color> set to 0
+[Info   :   Console] <color=#FF0000FF>Morphling</color> set to 0
+[Info   :   Console] <color=#FF0000FF>Swooper</color> set to 0
+[Info   :   Console] <color=#FF0000FF>Venerer</color> set to 0
+[Info   :   Console] Impostor Killing Roles set to 0
+[Info   :   Console] <color=#FF0000FF>Bomber</color> set to 0
+[Info   :   Console] <color=#FF0000FF>Traitor</color> set to 0
+[Info   :   Console] <color=#FF0000FF>Warlock</color> set to 0
+[Info   :   Console] Impostor Support Roles set to 0
+[Info   :   Console] <color=#FF0000FF>Blackmailer</color> set to 0
+[Info   :   Console] <color=#FF0000FF>Hypnotist</color> set to 0
+[Info   :   Console] <color=#FF0000FF>Janitor</color> set to 0
+[Info   :   Console] <color=#FF0000FF>Miner</color> set to 0
+[Info   :   Console] <color=#FF0000FF>Undertaker</color> set to 0
+[Info   :   Console] Crewmate Modifiers set to 0
+[Info   :   Console] <color=#A6FFA6FF>Aftermath</color> set to 0
+[Info   :   Console] <color=#00B3B3FF>Bait</color> set to 0
+[Info   :   Console] <color=#808080FF>Diseased</color> set to 0
+[Info   :   Console] <color=#99FFFFFF>Frosty</color> set to 0
+[Info   :   Console] <color=#FF804DFF>Multitasker</color> set to 0
+[Info   :   Console] <color=#FFFF99FF>Torch</color> set to 0
+[Info   :   Console] Global Modifiers set to 0
+[Info   :   Console] <color=#E600FFFF>Button Barry</color> set to 0
+[Info   :   Console] <color=#FF8080FF>Flash</color> set to 0
+[Info   :   Console] <color=#FFB34DFF>Giant</color> set to 0
+[Info   :   Console] <color=#FF66CCFF>Lovers</color> set to 0
+[Info   :   Console] <color=#FF0080FF>Radar</color> set to 0
+[Info   :   Console] <color=#FFB3CCFF>Shy</color> set to 0
+[Info   :   Console] <color=#D9FF8CFF>Sixth Sense</color> set to 0
+[Info   :   Console] <color=#803333FF>Sleuth</color> set to 0
+[Info   :   Console] <color=#99E699FF>Tiebreaker</color> set to 0
+[Info   :   Console] Impostor Modifiers set to 0
+[Info   :   Console] <color=#FF0000FF>Disperser</color> set to 0
+[Info   :   Console] <color=#FF0000FF>Double Shot</color> set to 0
+[Info   :   Console] <color=#FF0000FF>Underdog</color> set to 0
+[Info   :   Console] Game Mode Settings set to 0
+[Info   :   Console] Game Mode set to 0
+[Info   :   Console] Classic Game Mode Settings set to 0
+[Info   :   Console] Min Neutral Benign Roles set to 1
+[Info   :   Console] Max Neutral Benign Roles set to 1
+[Info   :   Console] Min Neutral Evil Roles set to 1
+[Info   :   Console] Max Neutral Evil Roles set to 1
+[Info   :   Console] Min Neutral Killing Roles set to 1
+[Info   :   Console] Max Neutral Killing Roles set to 1
+[Info   :   Console] All Any Settings set to 0
+[Info   :   Console] Random Number Of Impostors set to True
+[Info   :   Console] Killing Only Settings set to 0
+[Info   :   Console] Neutral Roles set to 1
+[Info   :   Console] Veteran Count set to 1
+[Info   :   Console] Vigilante Count set to 1
+[Info   :   Console] Add Arsonist set to True
+[Info   :   Console] Add Plaguebearer set to True
+[Info   :   Console] Map Settings set to 0
+[Info   :   Console] Choose Random Map set to False
+[Info   :   Console] Skeld Chance set to 0
+[Info   :   Console] Mira Chance set to 0
+[Info   :   Console] Polus Chance set to 0
+[Info   :   Console] Airship Chance set to 0
+[Info   :   Console] Fungle Chance set to 0
+[Info   :   Console] Submerged Chance set to 0
+[Info   :   Console] Level Impostor Chance set to 0
+[Info   :   Console] Half Vision On Skeld/Mira HQ set to False
+[Info   :   Console] Mira HQ Decreased Cooldowns set to 0
+[Info   :   Console] Airship/Submerged Increased Cooldowns set to 0
+[Info   :   Console] Skeld/Mira HQ Increased Short Tasks set to 0
+[Info   :   Console] Skeld/Mira HQ Increased Long Tasks set to 0
+[Info   :   Console] Airship/Submerged Decreased Short Tasks set to 0
+[Info   :   Console] Airship/Submerged Decreased Long Tasks set to 0
+[Info   :   Console] Better Polus Settings set to 0
+[Info   :   Console] Better Polus Vent Layout set to False
+[Info   :   Console] Vitals Moved To Lab set to False
+[Info   :   Console] Cold Temp Moved To Death Valley set to False
+[Info   :   Console] Reboot Wifi And Chart Course Swapped set to False
+[Info   :   Console] Custom Game Settings set to 0
+[Info   :   Console] Camouflaged Comms set to False
+[Info   :   Console] Kill Anyone During Camouflaged Comms set to False
+[Info   :   Console] Impostors Can See The Roles Of Their Team set to False
+[Info   :   Console] Dead Can See Everyone's Roles/Votes set to False
+[Info   :   Console] Game Start Cooldowns set to 10
+[Info   :   Console] Parallel Medbay Scans set to False
+[Info   :   Console] Disable Meeting Skip Button set to 0
+[Info   :   Console] Enable Hidden Roles set to True
+[Info   :   Console] First Death Shield Next Game set to False
+[Info   :   Console] Neutral Evil Win Ends Game set to True
+[Info   :   Console] Crew Killers Continue Game set to False
+[Info   :   Console] Task Tracking Settings set to 0
+[Info   :   Console] See Tasks During Round set to False
+[Info   :   Console] See Tasks During Meetings set to False
+[Info   :   Console] See Tasks When Dead set to True
+[Info   :   Console] <color=#FF0000FF>Assassin Ability</color> set to 0
+[Info   :   Console] Number Of Impostor Assassins set to 1
+[Info   :   Console] Number Of Neutral Assassins set to 1
+[Info   :   Console] Amnesiac Turned Impostor Gets Ability set to False
+[Info   :   Console] Amnesiac Turned Neutral Killing Gets Ability set to False
+[Info   :   Console] Traitor Gets Ability set to False
+[Info   :   Console] Number Of Assassin Kills set to 1
+[Info   :   Console] Assassin Can Kill More Than Once Per Meeting set to False
+[Info   :   Console] Assassin Can Guess "Crewmate" set to False
+[Info   :   Console] Assassin Can Guess Neutral Benign Roles set to False
+[Info   :   Console] Assassin Can Guess Neutral Evil Roles set to False
+[Info   :   Console] Assassin Can Guess Neutral Killing Roles set to False
+[Info   :   Console] Assassin Can Guess Impostor Roles set to False
+[Info   :   Console] Assassin Can Guess Crewmate Modifiers set to False
+[Info   :   Console] Assassin Can Guess Lovers set to False
+[Info   :   Console] Assassin Can Guess After Voting set to False
+[Info   :   Console] <color=#B34D99FF>Aurial</color> set to 0
+[Info   :   Console] Radiate Colour Range set to 0.5
+[Info   :   Console] Radiate Max Range set to 1.5
+[Info   :   Console] Sense Duration set to 10
+[Info   :   Console] <color=#4D4DFFFF>Detective</color> set to 0
+[Info   :   Console] Examine Cooldown set to 25
+[Info   :   Console] Show Detective Reports set to True
+[Info   :   Console] Time Where Detective Will Have Role set to 15
+[Info   :   Console] Time Where Detective Will Have Faction set to 30
+[Info   :   Console] <color=#D3D3D3FF>Haunter</color> set to 0
+[Info   :   Console] Tasks Remaining When Haunter Can Be Clicked set to 5
+[Info   :   Console] Tasks Remaining When Alert Is Sent set to 1
+[Info   :   Console] Haunter Reveals Neutral Roles set to False
+[Info   :   Console] Who Can Click Haunter set to 0
+[Info   :   Console] <color=#00B3B3FF>Investigator</color> set to 0
+[Info   :   Console] Footprint Size set to 4
+[Info   :   Console] Footprint Interval set to 0.1
+[Info   :   Console] Footprint Duration set to 10
+[Info   :   Console] Anonymous Footprint set to False
+[Info   :   Console] Footprint Vent Visible set to False
+[Info   :   Console] <color=#4D99E6FF>Mystic</color> set to 0
+[Info   :   Console] Dead Body Arrow Duration set to 0.1
+[Info   :   Console] <color=#BF00BFFF>Oracle</color> set to 0
+[Info   :   Console] Confess Cooldown set to 25
+[Info   :   Console] Reveal Accuracy set to 80
+[Info   :   Console] Neutral Benign Roles Show Evil set to False
+[Info   :   Console] Neutral Evil Roles Show Evil set to False
+[Info   :   Console] Neutral Killing Roles Show Evil set to True
+[Info   :   Console] <color=#FFCC80FF>Seer</color> set to 0
+[Info   :   Console] Seer Cooldown set to 25
+[Info   :   Console] Crewmate Killing Roles Are Red set to False
+[Info   :   Console] Neutral Benign Roles Are Red set to False
+[Info   :   Console] Neutral Evil Roles Are Red set to False
+[Info   :   Console] Neutral Killing Roles Are Red set to True
+[Info   :   Console] Traitor Does Not Swap Colours set to False
+[Info   :   Console] <color=#D4AF37FF>Snitch</color> set to 0
+[Info   :   Console] Snitch Sees Neutral Roles set to False
+[Info   :   Console] Tasks Remaining When Revealed set to 1
+[Info   :   Console] Snitch Sees Impostors In Meetings set to True
+[Info   :   Console] Snitch Sees Traitor set to True
+[Info   :   Console] <color=#CCA3CCFF>Spy</color> set to 0
+[Info   :   Console] Who Sees Dead Bodies On Admin set to 0
+[Info   :   Console] <color=#009900FF>Tracker</color> set to 0
+[Info   :   Console] Arrow Update Interval set to 5
+[Info   :   Console] Track Cooldown set to 25
+[Info   :   Console] Tracker Arrows Reset After Each Round set to True
+[Info   :   Console] Maximum Number Of Tracks set to 5
+[Info   :   Console] <color=#A7D1B3FF>Trapper</color> set to 0
+[Info   :   Console] Min Amount Of Time In Trap To Register set to 1
+[Info   :   Console] Trap Cooldown set to 25
+[Info   :   Console] Traps Removed After Each Round set to True
+[Info   :   Console] Maximum Number Of Traps set to 5
+[Info   :   Console] Trap Size set to 0.25
+[Info   :   Console] Minimum Number Of Roles Required To Trigger Trap set to 3
+[Info   :   Console] <color=#29AB87FF>Hunter</color> set to 0
+[Info   :   Console] Hunter Kill Cooldown set to 25
+[Info   :   Console] Hunter Stalk Cooldown set to 10
+[Info   :   Console] Hunter Stalk Duration set to 25
+[Info   :   Console] Maximum Stalk Uses set to 5
+[Info   :   Console] Hunter Kills Last Voter If Voted Out set to False
+[Info   :   Console] Hunter Can Report Who They've Killed set to True
+[Info   :   Console] <color=#A6A6A6FF>Jailor</color> set to 0
+[Info   :   Console] Jail Cooldown set to 25
+[Info   :   Console] Maximum Number Of Executes set to 3
+[Info   :   Console] <color=#FFFF00FF>Sheriff</color> set to 0
+[Info   :   Console] Sheriff Miskill Kills Crewmate set to False
+[Info   :   Console] Sheriff Kills Neutral Evil Roles set to False
+[Info   :   Console] Sheriff Kills Neutral Killing Roles set to False
+[Info   :   Console] Sheriff Kill Cooldown set to 25
+[Info   :   Console] Sheriff Can Report Who They've Killed set to True
+[Info   :   Console] <color=#998040FF>Veteran</color> set to 0
+[Info   :   Console] Can Be Killed On Alert set to False
+[Info   :   Console] Alert Cooldown set to 25
+[Info   :   Console] Alert Duration set to 10
+[Info   :   Console] Maximum Number Of Alerts set to 5
+[Info   :   Console] <color=#FFFF99FF>Vigilante</color> set to 0
+[Info   :   Console] Number Of Vigilante Kills set to 1
+[Info   :   Console] Vigilante Can Kill More Than Once Per Meeting set to False
+[Info   :   Console] Vigilante Can Guess Neutral Benign Roles set to False
+[Info   :   Console] Vigilante Can Guess Neutral Evil Roles set to False
+[Info   :   Console] Vigilante Can Guess Neutral Killing Roles set to False
+[Info   :   Console] Vigilante Can Guess Lovers set to False
+[Info   :   Console] Vigilante Can Guess After Voting set to False
+[Info   :   Console] <color=#660000FF>Altruist</color> set to 0
+[Info   :   Console] Altruist Revive Duration set to 10
+[Info   :   Console] Target's Body Disappears On Beginning Of Revive set to False
+[Info   :   Console] <color=#006600FF>Medic</color> set to 0
+[Info   :   Console] Show Shielded Player set to 0
+[Info   :   Console] Who Gets Murder Attempt Indicator set to 0
+[Info   :   Console] Shield Breaks On Murder Attempt set to False
+[Info   :   Console] Show Medic Reports set to True
+[Info   :   Console] Time Where Medic Will Have Name set to 0
+[Info   :   Console] Time Where Medic Will Have Color Type set to 15
+[Info   :   Console] <color=#9900FFFF>Warden</color> set to 0
+[Info   :   Console] Fortify Cooldown set to 10
+[Info   :   Console] <color=#FFA60AFF>Engineer</color> set to 0
+[Info   :   Console] Maximum Number Of Fixes set to 5
+[Info   :   Console] <color=#A680FFFF>Medium</color> set to 0
+[Info   :   Console] Mediate Cooldown set to 10
+[Info   :   Console] Reveal Appearance Of Mediate Target set to True
+[Info   :   Console] Reveal The Medium To The Mediate Target set to True
+[Info   :   Console] Who Is Revealed With Mediate set to 0
+[Info   :   Console] <color=#660099FF>Politician</color> set to 0
+[Info   :   Console] Campaign Cooldown set to 25
+[Info   :   Console] <color=#B38000FF>Prosecutor</color> set to 0
+[Info   :   Console] Prosecutor Dies When They Exile A Crewmate set to False
+[Info   :   Console] <color=#66E666FF>Swapper</color> set to 0
+[Info   :   Console] Swapper Can Button set to True
+[Info   :   Console] <color=#00EEFFFF>Transporter</color> set to 0
+[Info   :   Console] Transport Cooldown set to 25
+[Info   :   Console] Maximum Number Of Transports set to 5
+[Info   :   Console] Transporter Can Use Vitals set to False
+[Info   :   Console] <color=#80B2FFFF>Amnesiac</color> set to 0
+[Info   :   Console] Amnesiac Gets Arrows Pointing To Dead Bodies set to False
+[Info   :   Console] Time After Death Arrow Appears set to 5
+[Info   :   Console] <color=#B3FFFFFF>Guardian Angel</color> set to 0
+[Info   :   Console] Protect Cooldown set to 25
+[Info   :   Console] Protect Duration set to 10
+[Info   :   Console] Kill Cooldown Reset When Protected set to 2.5
+[Info   :   Console] Maximum Number Of Protects set to 5
+[Info   :   Console] Show Protected Player set to 0
+[Info   :   Console] GA Becomes On Target Dead set to 0
+[Info   :   Console] Target Knows GA Exists set to False
+[Info   :   Console] GA Knows Targets Role set to False
+[Info   :   Console] Odds Of Target Being Evil set to 20
+[Info   :   Console] <color=#FFE64DFF>Survivor</color> set to 0
+[Info   :   Console] Vest Cooldown set to 25
+[Info   :   Console] Vest Duration set to 10
+[Info   :   Console] Kill Cooldown Reset On Attack set to 2.5
+[Info   :   Console] Maximum Number Of Vests set to 5
+[Info   :   Console] <color=#00FF80FF>Doomsayer</color> set to 0
+[Info   :   Console] Observe Cooldown set to 25
+[Info   :   Console] Doomsayer Can Guess Neutral Benign Roles set to False
+[Info   :   Console] Doomsayer Can Guess Neutral Evil Roles set to False
+[Info   :   Console] Doomsayer Can Guess Neutral Killing Roles set to False
+[Info   :   Console] Doomsayer Can Guess Impostor Roles set to False
+[Info   :   Console] Doomsayer Can Guess After Voting set to False
+[Info   :   Console] (Experienced) Doomsayer can't observe set to False
+[Info   :   Console] <color=#8C4005FF>Executioner</color> set to 0
+[Info   :   Console] Executioner Becomes On Target Dead set to 0
+[Info   :   Console] Executioner Can Button set to True
+[Info   :   Console] Executioner Torments Player On Victory set to True
+[Info   :   Console] <color=#FFBFCCFF>Jester</color> set to 0
+[Info   :   Console] Jester Can Button set to True
+[Info   :   Console] Jester Can Hide In Vents set to False
+[Info   :   Console] Jester Has Impostor Vision set to False
+[Info   :   Console] Jester Haunts Player On Victory set to True
+[Info   :   Console] <color=#662962FF>Phantom</color> set to 0
+[Info   :   Console] Tasks Remaining When Phantom Can Be Clicked set to 5
+[Info   :   Console] Phantom Spooks Player On Victory set to True
+[Info   :   Console] <color=#99FFCCFF>Soul Collector</color> set to 0
+[Info   :   Console] Reap Cooldown set to 25
+[Info   :   Console] Passively Collect A Soul Each Round set to True
+[Info   :   Console] Amount Of Souls Required To Win set to 5
+[Info   :   Console] <color=#FF4D00FF>Arsonist</color> set to 0
+[Info   :   Console] Douse Cooldown set to 25
+[Info   :   Console] Maximum Alive Players Doused set to 5
+[Info   :   Console] Arsonist Has Impostor Vision set to False
+[Info   :   Console] Ignite Cooldown Removed When Arsonist Is Last Killer set to False
+[Info   :   Console] <color=#8C004DFF>Juggernaut</color> set to 0
+[Info   :   Console] Juggernaut Initial Kill Cooldown set to 25
+[Info   :   Console] Reduced Kill Cooldown Per Kill set to 5
+[Info   :   Console] Juggernaut Can Vent set to False
+[Info   :   Console] <color=#E6FFB3FF>Plaguebearer</color> set to 0
+[Info   :   Console] Infect Cooldown set to 25
+[Info   :   Console] Pestilence Kill Cooldown set to 25
+[Info   :   Console] Pestilence Can Vent set to False
+[Info   :   Console] <color=#00FF00FF>The Glitch</color> set to 0
+[Info   :   Console] Mimic Cooldown set to 25
+[Info   :   Console] Mimic Duration set to 10
+[Info   :   Console] Hack Cooldown set to 25
+[Info   :   Console] Hack Duration set to 10
+[Info   :   Console] Glitch Kill Cooldown set to 25
+[Info   :   Console] Glitch Hack Distance set to 0
+[Info   :   Console] Glitch Can Vent set to False
+[Info   :   Console] <color=#262626FF>Vampire</color> set to 0
+[Info   :   Console] Vampire Bite Cooldown set to 25
+[Info   :   Console] Vampires Have Impostor Vision set to False
+[Info   :   Console] Vampires Can Vent set to False
+[Info   :   Console] New Vampire Can Assassinate set to False
+[Info   :   Console] Maximum Vampires Per Game set to 2
+[Info   :   Console] Can Convert Neutral Benign Roles set to False
+[Info   :   Console] Can Convert Neutral Evil Roles set to False
+[Info   :   Console] <color=#A86629FF>Werewolf</color> set to 0
+[Info   :   Console] Rampage Cooldown set to 25
+[Info   :   Console] Rampage Duration set to 25
+[Info   :   Console] Rampage Kill Cooldown set to 10
+[Info   :   Console] Werewolf Can Vent When Rampaged set to False
+[Info   :   Console] <color=#FF0000FF>Escapist</color> set to 0
+[Info   :   Console] Recall Cooldown set to 25
+[Info   :   Console] Escapist Can Vent set to False
+[Info   :   Console] <color=#FF0000FF>Grenadier</color> set to 0
+[Info   :   Console] Flash Grenade Cooldown set to 25
+[Info   :   Console] Flash Grenade Duration set to 10
+[Info   :   Console] Flash Radius set to 1
+[Info   :   Console] Indicate Flashed Crewmates set to False
+[Info   :   Console] Grenadier Can Vent set to False
+[Info   :   Console] <color=#FF0000FF>Morphling</color> set to 0
+[Info   :   Console] Morphling Cooldown set to 25
+[Info   :   Console] Morphling Duration set to 10
+[Info   :   Console] Morphling Can Vent set to False
+[Info   :   Console] <color=#FF0000FF>Swooper</color> set to 0
+[Info   :   Console] Swoop Cooldown set to 25
+[Info   :   Console] Swoop Duration set to 10
+[Info   :   Console] Swooper Can Vent set to False
+[Info   :   Console] <color=#FF0000FF>Venerer</color> set to 0
+[Info   :   Console] Ability Cooldown set to 25
+[Info   :   Console] Ability Duration set to 10
+[Info   :   Console] Sprint Speed set to 1.25
+[Info   :   Console] Freeze Speed set to 0.75
+[Info   :   Console] <color=#FF0000FF>Bomber</color> set to 0
+[Info   :   Console] Detonate Delay set to 5
+[Info   :   Console] Max Kills In Detonation set to 5
+[Info   :   Console] Detonate Radius set to 0.25
+[Info   :   Console] Bomber Can Vent set to False
+[Info   :   Console] All Impostors See Bomb set to False
+[Info   :   Console] <color=#FF0000FF>Traitor</color> set to 0
+[Info   :   Console] Minimum People Alive When Traitor Can Spawn set to 5
+[Info   :   Console] Traitor Won't Spawn If Any Neutral Killing Is Alive set to False
+[Info   :   Console] <color=#FF0000FF>Warlock</color> set to 0
+[Info   :   Console] Time It Takes To Fully Charge set to 25
+[Info   :   Console] Time It Takes To Use Full Charge set to 1
+[Info   :   Console] <color=#FF0000FF>Blackmailer</color> set to 0
+[Info   :   Console] Initial Blackmail Cooldown set to 10
+[Info   :   Console] Only Target Sees Blackmail set to False
+[Info   :   Console] <color=#FF0000FF>Hypnotist</color> set to 0
+[Info   :   Console] Hypnotize Cooldown set to 25
+[Info   :   Console] <color=#FF0000FF>Miner</color> set to 0
+[Info   :   Console] Mine Cooldown set to 25
+[Info   :   Console] <color=#FF0000FF>Undertaker</color> set to 0
+[Info   :   Console] Drag Cooldown set to 25
+[Info   :   Console] Undertaker Drag Speed set to 0.75
+[Info   :   Console] Undertaker Can Vent set to False
+[Info   :   Console] Undertaker Can Vent While Dragging set to False
+[Info   :   Console] <color=#00B3B3FF>Bait</color> set to 0
+[Info   :   Console] Minimum Delay for the Bait Report set to 0
+[Info   :   Console] Maximum Delay for the Bait Report set to 1
+[Info   :   Console] <color=#808080FF>Diseased</color> set to 0
+[Info   :   Console] Diseased Kill Multiplier set to 3
+[Info   :   Console] <color=#99FFFFFF>Frosty</color> set to 0
+[Info   :   Console] Chill Duration set to 10
+[Info   :   Console] Chill Start Speed set to 0.75
+[Info   :   Console] <color=#FF8080FF>Flash</color> set to 0
+[Info   :   Console] Flash Speed set to 1.25
+[Info   :   Console] <color=#FFB34DFF>Giant</color> set to 0
+[Info   :   Console] Giant Speed set to 0.75
+[Info   :   Console] <color=#FF66CCFF>Lovers</color> set to 0
+[Info   :   Console] Both Lovers Die set to True
+[Info   :   Console] Loving Impostor Probability set to 20
+[Info   :   Console] Neutral Roles Can Be Lovers set to True
+[Info   :   Console] Impostor Lover Can Kill Teammate set to False
+[Info   :   Console] <color=#FFB3CCFF>Shy</color> set to 0
+[Info   :   Console] Transparency Delay set to 5
+[Info   :   Console] Turn Transparent Duration set to 5
+[Info   :   Console] Final Opacity set to 20
+[Info   :   Console] <color=#FF0000FF>Underdog</color> set to 0
+[Info   :   Console] Kill Cooldown Bonus set to 5
+[Info   :   Console] Increased Kill Cooldown When 2+ Imps set to True
+[Info   :Il2CppInterop] Registered mono type TownOfUs.RainbowMod.RainbowBehaviour in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type TownOfUs.CrewmateRoles.DetectiveMod.CrimeScene in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type TownOfUs.NeutralRoles.SoulCollectorMod.Soul in il2cpp domain
+[Info   :   BepInEx] Loading [LevelImposter 0.20.2+eeff3574d85a833814ace97bef53fc553bb24ac5]
+[Info   :LevelImposter] LevelImposter detected TOU installed, compatibility enabled
+[Info   :LevelImposter] LevelImposter detected Submerged installed, currently unsupported
+[Info   :Il2CppInterop] Registered mono type LevelImposter.Core.LIShipStatus in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type LevelImposter.Core.LIStar in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type LevelImposter.Core.LIFloat in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type LevelImposter.Core.LIScroll in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type LevelImposter.Core.LITeleporter in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type LevelImposter.Core.PlayerArea in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type LevelImposter.Core.LITriggerArea in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type LevelImposter.Core.TriggerAnim in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type LevelImposter.Core.LIDeathArea in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type LevelImposter.Core.LIShakeArea in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type LevelImposter.Core.LITriggerSpawnable in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type LevelImposter.Core.MinigameSprites in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type LevelImposter.Core.LagLimiter in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type LevelImposter.Core.GIFAnimator in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type LevelImposter.Core.TriggerSoundPlayer in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type LevelImposter.Core.TriggerConsole in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type LevelImposter.Core.MapObjectData in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type LevelImposter.Core.EditableLadderConsole in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type LevelImposter.Core.LIExileController in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type LevelImposter.Core.LIPhysicsObject in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type LevelImposter.DB.AssetDB in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type LevelImposter.Shop.HTTPHandler in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type LevelImposter.Shop.RandomOverlay in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type LevelImposter.Shop.MapBanner in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type LevelImposter.Shop.ShopManager in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type LevelImposter.Shop.ShopTabs in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type LevelImposter.Shop.Spinner in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type LevelImposter.Shop.LoadingBar in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type LevelImposter.Shop.LobbyVersionTag in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type LevelImposter.Shop.LobbyConsole in il2cpp domain
+[Message:LevelImposter] LevelImposter Initialized.
+[Message:   BepInEx] Chainloader startup complete
+[Info   :Mini.RegionInstall] Current region: Modded NA (MNA) (1 servers)
+[Info   :Mini.RegionInstall] Region "Http-1" @ https://www.aumods.org:443
+[Info   :Mini.RegionInstall] Removing User Regions: "TOU MASTER", "LMJ NA", "LMJ EU", "TOU NA", "TOU EU", "MOD NA", "MOD EU"
+[Info   :Mini.RegionInstall] Adding User Regions
+[Info   :Mini.RegionInstall] Parsing {"CurrentRegionIdx":0,"Regions":[{"$type":"StaticHttpRegionInfo, Assembly-CSharp","Name":"Modded EU (MEU)","PingServer":"https://au-eu.duikbo.at","Servers":[{"Name":"Http-1","Ip":"https://au-eu.duikbo.at","Port":443,"UseDtls":false,"Players":0,"ConnectionFailures":0}],"TranslateName":1003},{"$type":"StaticHttpRegionInfo, Assembly-CSharp","Name":"Modded NA (MNA)","PingServer":"https://www.aumods.org","Servers":[{"Name":"Http-1","Ip":"https://www.aumods.org","Port":443,"UseDtls":false,"Players":0,"ConnectionFailures":0}],"TranslateName":1003},{"$type":"StaticHttpRegionInfo, Assembly-CSharp","Name":"Modded Asia (MAS)","PingServer":"https://au-as.duikbo.at","Servers":[{"Name":"Http-1","Ip":"https://au-as.duikbo.at","Port":443,"UseDtls":false,"Players":0,"ConnectionFailures":0}],"TranslateName":1003}]}
+[Info   :Mini.RegionInstall] Loading server data
+[Info   :Mini.RegionInstall] Region "Modded EU (MEU)" @ https://au-eu.duikbo.at:443
+[Info   :Mini.RegionInstall] Region "Modded NA (MNA)" @ https://www.aumods.org:443
+[Info   :Mini.RegionInstall] Region "Modded Asia (MAS)" @ https://au-as.duikbo.at:443
+[Info   :Mini.RegionInstall] Adding 3 regions
+[Info   :Mini.RegionInstall] Current region: Modded NA (MNA) (1 servers)
+[Info   :Mini.RegionInstall] Region "Http-1" @ https://www.aumods.org:443
+[Info   :Mini.RegionInstall] Current server: Http-1: https://www.aumods.org:443 False
+[Info   :LevelImposter] Loading sprite resource MapIcon.png
+[Info   :LevelImposter] Getting latest release info from GitHub
+[Info   :LevelImposter] [AU=2024.11.26]
+[Info   :LevelImposter] GET: https://api.github.com/repos/DigiWorm0/LevelImposter/releases?per_page=1
+[Info   :LevelImposter] Loading JSON resource SerializedAssetDB.json
+[Info   :LevelImposter] Loading AssetDB...
+[Warning:LevelImposter] Could not import [0350ea6b54662874b855ec6137b5c997] due to invalid Async Operation. Trying again in 5 seconds...
+[Info   :LevelImposter] Loading sprite resource LevelImposterLogo.png
+[Info   :Mini.RegionInstall] Current region: Modded NA (MNA) (1 servers)
+[Info   :Mini.RegionInstall] Region "Http-1" @ https://www.aumods.org:443
+[Info   :Mini.RegionInstall] Loading region from cache instead of from file
+[Info   :   Reactor] Region file reloaded
+[Info   :Mini.RegionInstall] Current region: Modded NA (MNA) (1 servers)
+[Info   :Mini.RegionInstall] Region "Http-1" @ https://www.aumods.org:443
+[Info   :Mini.RegionInstall] Loading region from cache instead of from file
+[Info   :   Reactor] Region file reloaded
+[Info   :Mini.RegionInstall] Current region: Modded NA (MNA) (1 servers)
+[Info   :Mini.RegionInstall] Region "Http-1" @ https://www.aumods.org:443
+[Info   :Mini.RegionInstall] Loading region from cache instead of from file
+[Info   :   Reactor] Region file reloaded
+[Info   :Mini.RegionInstall] Current region: Modded NA (MNA) (1 servers)
+[Info   :Mini.RegionInstall] Region "Http-1" @ https://www.aumods.org:443
+[Info   :Mini.RegionInstall] Loading region from cache instead of from file
+[Info   :   Reactor] Region file reloaded
+[Info   :Mini.RegionInstall] Current region: Modded NA (MNA) (1 servers)
+[Info   :Mini.RegionInstall] Region "Http-1" @ https://www.aumods.org:443
+[Info   :Mini.RegionInstall] Loading region from cache instead of from file
+[Info   :   Reactor] Region file reloaded
+[Info   :Mini.RegionInstall] Current region: Modded NA (MNA) (1 servers)
+[Info   :Mini.RegionInstall] Region "Http-1" @ https://www.aumods.org:443
+[Info   :Mini.RegionInstall] Loading region from cache instead of from file
+[Info   :   Reactor] Region file reloaded
+[Info   :LevelImposter] RES: 200
+[Info   : Submerged] Loaded MapLoader
+[Info   :LevelImposter] ...SkeldShip Loaded
+[Info   :LevelImposter] ...MiraShip Loaded
+[Info   : Submerged] Loaded AssetLoader
+[Info   :LevelImposter] ...PolusShip Loaded
+[Info   :LevelImposter] ...Airship Loaded
+[Info   :LevelImposter] ...FungleShip Loaded
+[Warning:LevelImposter] Could not import [Submerged]. Ignoring...
